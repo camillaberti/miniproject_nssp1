@@ -5,7 +5,7 @@
 To run the subsequent analysis, the project reporitory must be organized as follow:
 
 ```text
-code/
+E_code/
 ├── 01_struct_preprocessing.ipynb
 ├── 02_func_preprocessing.ipynb
 ├── 03_glm.ipynb
@@ -23,7 +23,7 @@ code/
 
 ## Execution order
 
-Open Jupyter in Neurodesk with `code/` as the working directory and run all cells in each notebook from top to bottom before starting the next one.
+Open Jupyter in Neurodesk with `E_code/` as the working directory and run all cells in each notebook from top to bottom before starting the next one.
 
 1. `01_struct_preprocessing.ipynb` — anatomical preprocessing
 2. `02_func_preprocessing.ipynb` — functional preprocessing
